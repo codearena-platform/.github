@@ -21,12 +21,12 @@ Built with a cyberpunk aesthetic and a focus on visual excellence, CodeArena pro
 
 CodeArena is organized into a modular ecosystem of repositories, ensuring scalability and clear separation of concerns:
 
-- 🏗️ **[codearena-platform](file:///c:/Users/JacksonWendelSantosS/Project/codearena/codearena-platform)**: The backend core. A high-performance Go-based microservices architecture managing IAM, Gateways, and the Competition logic.
-- ⚙️ **[codearena-core](file:///c:/Users/JacksonWendelSantosS/Project/codearena/codearena-core)**: Shared libraries, shared protocols (Protobuf), and core logic used across the entire stack.
-- 🎨 **[codearena-web](file:///c:/Users/JacksonWendelSantosS/Project/codearena/codearena-web)**: The primary interface. Includes Arena Studio for building bots and the Arena Viewer for spectating battles in real-time.
-- 📖 **[codearena-docs](file:///c:/Users/JacksonWendelSantosS/Project/codearena/codearena-docs)**: Centralized knowledge base, technical specs, and architecture guides.
-- 💻 **[codearena-cli](file:///c:/Users/JacksonWendelSantosS/Project/codearena/codearena-cli) & [codearena-sdk](file:///c:/Users/JacksonWendelSantosS/Project/codearena/codearena-sdk)**: Essential tools for developers to integrate their bots and interact with the platform programmatically.
-- 🌐 **[codearena-infra](file:///c:/Users/JacksonWendelSantosS/Project/codearena/codearena-infra)**: Infrastructure as Code (IaC) for cloud or local deployment via Docker and Kubernetes.
+- 🏗️ **[codearena-platform](https://github.com/codearena-platform/codearena-platform)**: The backend core. A high-performance Go-based microservices architecture managing IAM, Gateways, and the Competition logic.
+- ⚙️ **[codearena-core](https://github.com/codearena-platform/codearena-core)**: Shared libraries, shared protocols (Protobuf), and core logic used across the entire stack.
+- 🎨 **[codearena-web](https://github.com/codearena-platform/codearena-web)**: The primary interface. Includes Arena Studio for building bots and the Arena Viewer for spectating battles in real-time.
+- 📖 **[codearena-docs](https://github.com/codearena-platform/codearena-docs)**: Centralized knowledge base, technical specs, and architecture guides.
+- 💻 **[codearena-cli](https://github.com/codearena-platform/codearena-cli) & [codearena-sdk](https://github.com/codearena-platform/codearena-sdk)**: Essential tools for developers to integrate their bots and interact with the platform programmatically.
+- 🌐 **[codearena-infra](https://github.com/codearena-platform/codearena-infra)**: Infrastructure as Code (IaC) for cloud or local deployment via Docker and Kubernetes.
 
 ---
 
@@ -80,7 +80,7 @@ graph TD
 
 ## 🛤️ Getting Started
 
-To explore the individual components, visit the respective repository links above. For a comprehensive overview of the platform architecture, check out the **[codearena-docs](file:///c:/Users/JacksonWendelSantosS/Project/codearena/codearena-docs)**.
+To explore the individual components, visit the respective repository links above. For a comprehensive overview of the platform architecture, check out the **[codearena-docs](https://github.com/codearena-platform/codearena-docs)**.
 
 ---
 
